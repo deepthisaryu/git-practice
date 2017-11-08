@@ -1,0 +1,2 @@
+hello saryu 
+this is your first practice in git bash promt
